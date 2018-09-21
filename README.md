@@ -5,8 +5,8 @@ FXServer ESX Eden Darknet
 [REQUIREMENTS]
 
 
-* ESX_PHONE
-  * esx_phone : https://github.com/ESX-Org/esx_phone
+* ESX_PHONE3
+  * esx_phone3 : https://github.com/ESX-PUBLIC/esx_ALphone-Blackberry-system
 
 [INSTALLATION]
 
